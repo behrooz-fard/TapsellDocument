@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tapsellorg.github.io/TapsellDocument/blog</id>
+    <title>Tapsell Blog</title>
+    <updated>2017-10-24T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://tapsellorg.github.io/TapsellDocument/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Tapsell news and events.</subtitle>
+    <logo>https://tapsellorg.github.io/TapsellDocument/img/favicon.png</logo>
+    <rights>Copyright © 2019 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[New Version 1.0.0]]></title>
+        <id>https://tapsellorg.github.io/TapsellDocument/blog/2017/10/24/new-version-1.0.0.html</id>
+        <link href="https://tapsellorg.github.io/TapsellDocument/blog/2017/10/24/new-version-1.0.0.html">
+        </link>
+        <updated>2017-10-24T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+</feed>
